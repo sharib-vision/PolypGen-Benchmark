@@ -28,7 +28,7 @@ Requirements:
     `pip install .`
 
 **Metrics**
-- Please use the metrics provided here(https://github.com/sharibox/PolypGen-Benchmark/blob/main/metrics/compute_seg.py)
+- Please use the metrics provided here: https://github.com/sharibox/PolypGen-Benchmark/blob/main/metrics/compute_seg.py
     
 ## Statement & Disclaimer
 This project is for research purpose only and may have included third party educational/research codes. The authors do not take any liability regarding any commercial usage. For any other questions please contact [ali.sharib2002@gmail.com](mailto:ali.sharib2002@gmail.com).

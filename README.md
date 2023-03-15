@@ -5,7 +5,7 @@
 <p align="justify">This is a benchmark code used for polyp segmentation reported in <a href="https://arxiv.org/pdf/2106.04463.pdf">PolypGen: A multi-center polyp detection andsegmentation dataset for generalisabilityassessment</a>.
     
 **Cite:**
-Ali, S. et al. PolypGen: A multi-center polyp detection and segmentation dataset for generalisability assessment. arXiv 2021. Link: https://arxiv.org/abs/2106.04463
+Ali, S. et al. A multi-centre polyp detection and segmentation dataset for generalisability assessment. Sci Data 10, 75 (2023). https://doi.org/10.1038/s41597-023-01981-y
 
 
 

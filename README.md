@@ -3,6 +3,11 @@
 ### Brief description:
 
 <p align="justify">This is a benchmark code used for polyp segmentation reported in <a href="https://arxiv.org/pdf/2106.04463.pdf">PolypGen: A multi-center polyp detection andsegmentation dataset for generalisabilityassessment</a>.
+
+
+**Dataset download for PolypGen:**
+
+Link: https://www.synapse.org/Synapse:syn45200214
     
 **Cite:**
 
